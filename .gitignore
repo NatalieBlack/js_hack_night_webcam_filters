@@ -2,3 +2,8 @@ haters
 node_modules/
 *.log
 .DS_store
+*~
+*.swp
+*.swn
+*.swo
+
